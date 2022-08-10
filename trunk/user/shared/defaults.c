@@ -573,7 +573,7 @@ struct nvram_pair router_defaults[] = {
 	{ "china_dns", "223.5.5.5#53" },
 	{ "tunnel_forward", "8.8.8.8#53" },
 	{ "ssp_dns_ip", "2" },
-	{ "socks5_enable", "0" },
+	{ "socks5_enable", "nil" },
 	{ "socks5_wenable", "0" },
 	{ "socks5_port", "1088" },
 	{ "socks5_aenable", "0" },
